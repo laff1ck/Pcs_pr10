@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.light(),
       debugShowCheckedModeBanner: false,
 
-      title: 'CakeTime',
+      title: 'Лавочка',
 
       home: HomePage(),
     );
